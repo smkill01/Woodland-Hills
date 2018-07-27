@@ -1,0 +1,1 @@
+This project is to create a new website for the City of Woodland Hills, Kentucky. The initial website is not used, and is corrupted by malware. This will be a fresh site to be used by current and prospective residents, visitors, and those wanting to learn about or contact the city.
